@@ -1,0 +1,14 @@
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example001_Salam/bin/Debug/net7.0/Example001_Salam
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example001_Salam/bin/Debug/net7.0/Example001_Salam.deps.json
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example001_Salam/bin/Debug/net7.0/Example001_Salam.runtimeconfig.json
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example001_Salam/bin/Debug/net7.0/Example001_Salam.dll
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example001_Salam/bin/Debug/net7.0/Example001_Salam.pdb
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example001_Salam/obj/Debug/net7.0/Example001_Salam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example001_Salam/obj/Debug/net7.0/Example001_Salam.AssemblyInfoInputs.cache
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example001_Salam/obj/Debug/net7.0/Example001_Salam.AssemblyInfo.cs
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example001_Salam/obj/Debug/net7.0/Example001_Salam.csproj.CoreCompileInputs.cache
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example001_Salam/obj/Debug/net7.0/Example001_Salam.dll
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example001_Salam/obj/Debug/net7.0/refint/Example001_Salam.dll
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example001_Salam/obj/Debug/net7.0/Example001_Salam.pdb
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example001_Salam/obj/Debug/net7.0/Example001_Salam.genruntimeconfig.cache
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example001_Salam/obj/Debug/net7.0/ref/Example001_Salam.dll
