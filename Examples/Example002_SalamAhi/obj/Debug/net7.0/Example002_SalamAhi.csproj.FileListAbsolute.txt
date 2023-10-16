@@ -1,0 +1,14 @@
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example002_SalamAhi/bin/Debug/net7.0/Example002_SalamAhi
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example002_SalamAhi/bin/Debug/net7.0/Example002_SalamAhi.deps.json
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example002_SalamAhi/bin/Debug/net7.0/Example002_SalamAhi.runtimeconfig.json
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example002_SalamAhi/bin/Debug/net7.0/Example002_SalamAhi.dll
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example002_SalamAhi/bin/Debug/net7.0/Example002_SalamAhi.pdb
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example002_SalamAhi/obj/Debug/net7.0/Example002_SalamAhi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example002_SalamAhi/obj/Debug/net7.0/Example002_SalamAhi.AssemblyInfoInputs.cache
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example002_SalamAhi/obj/Debug/net7.0/Example002_SalamAhi.AssemblyInfo.cs
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example002_SalamAhi/obj/Debug/net7.0/Example002_SalamAhi.csproj.CoreCompileInputs.cache
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example002_SalamAhi/obj/Debug/net7.0/Example002_SalamAhi.dll
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example002_SalamAhi/obj/Debug/net7.0/refint/Example002_SalamAhi.dll
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example002_SalamAhi/obj/Debug/net7.0/Example002_SalamAhi.pdb
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example002_SalamAhi/obj/Debug/net7.0/Example002_SalamAhi.genruntimeconfig.cache
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example002_SalamAhi/obj/Debug/net7.0/ref/Example002_SalamAhi.dll
