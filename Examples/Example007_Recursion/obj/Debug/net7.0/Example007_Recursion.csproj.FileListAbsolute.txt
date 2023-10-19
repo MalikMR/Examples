@@ -1,0 +1,14 @@
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example007_Recursion/bin/Debug/net7.0/Example007_Recursion
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example007_Recursion/bin/Debug/net7.0/Example007_Recursion.deps.json
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example007_Recursion/bin/Debug/net7.0/Example007_Recursion.runtimeconfig.json
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example007_Recursion/bin/Debug/net7.0/Example007_Recursion.dll
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example007_Recursion/bin/Debug/net7.0/Example007_Recursion.pdb
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example007_Recursion/obj/Debug/net7.0/Example007_Recursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example007_Recursion/obj/Debug/net7.0/Example007_Recursion.AssemblyInfoInputs.cache
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example007_Recursion/obj/Debug/net7.0/Example007_Recursion.AssemblyInfo.cs
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example007_Recursion/obj/Debug/net7.0/Example007_Recursion.csproj.CoreCompileInputs.cache
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example007_Recursion/obj/Debug/net7.0/Example007_Recursion.dll
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example007_Recursion/obj/Debug/net7.0/refint/Example007_Recursion.dll
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example007_Recursion/obj/Debug/net7.0/Example007_Recursion.pdb
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example007_Recursion/obj/Debug/net7.0/Example007_Recursion.genruntimeconfig.cache
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example007_Recursion/obj/Debug/net7.0/ref/Example007_Recursion.dll
