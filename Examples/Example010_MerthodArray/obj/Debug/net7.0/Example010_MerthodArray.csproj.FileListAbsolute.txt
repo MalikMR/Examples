@@ -1,0 +1,14 @@
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example010_MerthodArray/bin/Debug/net7.0/Example010_MerthodArray
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example010_MerthodArray/bin/Debug/net7.0/Example010_MerthodArray.deps.json
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example010_MerthodArray/bin/Debug/net7.0/Example010_MerthodArray.runtimeconfig.json
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example010_MerthodArray/bin/Debug/net7.0/Example010_MerthodArray.dll
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example010_MerthodArray/bin/Debug/net7.0/Example010_MerthodArray.pdb
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example010_MerthodArray/obj/Debug/net7.0/Example010_MerthodArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example010_MerthodArray/obj/Debug/net7.0/Example010_MerthodArray.AssemblyInfoInputs.cache
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example010_MerthodArray/obj/Debug/net7.0/Example010_MerthodArray.AssemblyInfo.cs
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example010_MerthodArray/obj/Debug/net7.0/Example010_MerthodArray.csproj.CoreCompileInputs.cache
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example010_MerthodArray/obj/Debug/net7.0/Example010_MerthodArray.dll
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example010_MerthodArray/obj/Debug/net7.0/refint/Example010_MerthodArray.dll
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example010_MerthodArray/obj/Debug/net7.0/Example010_MerthodArray.pdb
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example010_MerthodArray/obj/Debug/net7.0/Example010_MerthodArray.genruntimeconfig.cache
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example010_MerthodArray/obj/Debug/net7.0/ref/Example010_MerthodArray.dll
