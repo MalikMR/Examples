@@ -1,0 +1,14 @@
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example011_ArrayLibrary/bin/Debug/net7.0/Example011_ArrayLibrary
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example011_ArrayLibrary/bin/Debug/net7.0/Example011_ArrayLibrary.deps.json
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example011_ArrayLibrary/bin/Debug/net7.0/Example011_ArrayLibrary.runtimeconfig.json
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example011_ArrayLibrary/bin/Debug/net7.0/Example011_ArrayLibrary.dll
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example011_ArrayLibrary/bin/Debug/net7.0/Example011_ArrayLibrary.pdb
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example011_ArrayLibrary/obj/Debug/net7.0/Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example011_ArrayLibrary/obj/Debug/net7.0/Example011_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example011_ArrayLibrary/obj/Debug/net7.0/Example011_ArrayLibrary.AssemblyInfo.cs
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example011_ArrayLibrary/obj/Debug/net7.0/Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example011_ArrayLibrary/obj/Debug/net7.0/Example011_ArrayLibrary.dll
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example011_ArrayLibrary/obj/Debug/net7.0/refint/Example011_ArrayLibrary.dll
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example011_ArrayLibrary/obj/Debug/net7.0/Example011_ArrayLibrary.pdb
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example011_ArrayLibrary/obj/Debug/net7.0/Example011_ArrayLibrary.genruntimeconfig.cache
+/Users/malikfamily/Desktop/git_merkhat/seasharp_lection1/Examples/Example011_ArrayLibrary/obj/Debug/net7.0/ref/Example011_ArrayLibrary.dll
